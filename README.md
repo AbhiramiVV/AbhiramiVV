@@ -1,5 +1,4 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQFg9RLxLWg2_w/article-cover_image-shrink_720_1280/0/1699438501649?e=2147483647&v=beta&t=aluitxGeiA7ycipexPQyY25CWrh4y58-ZxVyeWHfgCY)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhirami V V</h1>
 <h3 align="center">A skilled full-stack developer from Kerala, India</h3>
 <img align="right" alt=Coding" width"200" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
